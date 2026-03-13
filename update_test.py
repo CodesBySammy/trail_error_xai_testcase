@@ -1,6 +1,7 @@
 import sqlite3
 from hashlib import md5
 
+
 def process_user_data(username, password, roles=None):
     if <ast.List object at 0x000002BCAE932CD0> is None:
         <ast.List object at 0x000002BCAE932CD0> = [] # Auto-fixed mutable default
