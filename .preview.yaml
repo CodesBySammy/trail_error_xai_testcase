@@ -1,0 +1,7 @@
+gatekeeper:
+  core_threshold: 45.0  # Slightly relaxed from the default 40.0
+  lenient_threshold: 90.0
+
+ignore:
+  extensions: [".md", ".txt", ".json"]
+  directories: ["docs/", "tests/", "ignore_me/"]
